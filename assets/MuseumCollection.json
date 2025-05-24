@@ -1,0 +1,1205 @@
+{
+  "halls": [
+    {
+      "hall_id": "1",
+      "hall_name": "Hall 1",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": []
+    },
+    {
+      "hall_id": "2",
+      "hall_name": "Hall 2: Masterpieces",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Tapestry hanging",
+          "Inventory Number": "7948",
+          "Description": "This tapestry which is Known as the \"Piper's Curtain,\" is a significant example of Coptic textile art from Egypt's Late Antique period (4th-5th century AD). On the right side It shows a dark-skinned piper ,and On the left side of the curtain, a vertical panel showcases warriors and dancers, while the central section depicts knights woven from linen and wool, highlighting the intricate craftsmanship of Coptic weavers. The Copts were master weavers, producing high-quality textiles that were widely traded across the Mediterranean. Their fabrics were primarily made from plain linen and decorated with dyed woollen threads using a tapestry technique.",
+          "Material": "Linen, wool",
+          "Length": "142 cm",
+          "Width": "103 cm",
+          "Provenance": "Antinoë",
+          "Dating": "4th/5th century",
+          "Image": "assets/images/Museum_Collection/2/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Lintel with acanthus scrolls enclosing animals and human busts",
+          "Inventory Number": "7381",
+          "Description": "This Coptic frieze features a central Latin cross, emphasizing Christian faith, surrounded by acanthus scrolls, a classical decorative motif. It also includes human busts, an antelope, and a lion, which may symbolize saints, patrons, or cultural elements of the period. A Coptic inscription at the bottom dedicates the frieze to Victor and his son Shoi, indicating their role as patrons or honorees. The piece reflects a blend of religious symbolism, classical motifs, and personal dedication, highlighting the cultural fusion in Coptic art.",
+          "Material": "Limestone",
+          "Length": "135 cm",
+          "Height": "40 cm",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th / 7th century",
+          "Image": "assets/images/Museum_Collection/2/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Four Saints and a Supplicant",
+          "Inventory Number": "7951",
+          "Description": "This artwork features four haloed, bearded men, two of whom are depicted with their arms raised in prayer, known as orant figures. The other two figures each hold a closed book, possibly representing sacred texts or religious teachings. Three of them wear ornate, patterned robes, while the fourth, identified as St. Onnuphrius, is clothed only by his long hair and beard, emphasizing his ascetic lifestyle. Originally, there was a fifth figure positioned to St. Onnuphrius's right, but it is now missing. The man on the far left is labeled as \"Macarius, bearer of the spirit.\" Another saint, St. Apollo, is shown holding cross-topped staffs, a significant Christian symbol. The fourth figure, whose name Pamun was once visible, has been identified through archival photographs of the artwork. This scene is an example of Coptic Christian iconography, highlighting the importance of saints and monastic figures in religious tradition.",
+          "Material": "Tempera",
+          "Height": "110 cm",
+          "Width": "145 cm",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah, Cell A",
+          "Dating": "6th-7th century",
+          "Image": "assets/images/Museum_Collection/2/3.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "3",
+      "hall_name": "Hall 3: Sculpture from Ahnas",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Funerary stela",
+          "Inventory Number": "12346",
+          "Description": "The gravestones from Terenouthis were crafted for a society that practiced pre-Christian traditions. These monuments are notable for their fusion of Pharaonic and Greco-Roman artistic elements. In this particular example, the deceased is portrayed in traditional Greek clothing, wearing a chiton with a himation draped over it. This choice of attire reflects the cultural influences present in the region during that time. The architectural design of the monument further emphasizes this blend of traditions. The structure's roof is decorated with a frieze of cobras, a motif that traces back to Pharaoh Djoser's funerary complex in Saqqara. Additionally, the presence of a jackal symbolizes Anubis, the protective deity of the necropolis. As the guardian of the afterlife, Anubis is depicted guiding the deceased on their journey beyond this world.",
+          "Material": "Limestone",
+          "Height": "29 cm",
+          "Width": "26 cm",
+          "Provenance": "Terenouthis",
+          "Dating": "3rd century",
+          "Image": "assets/images/Museum_Collection/3/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Funerary stela of a boy",
+          "Inventory Number": "12348",
+          "Description": "This stela was stone slab and was originally meant for a young child. The child is shown sitting on a cushion, nude, with arms raised in prayer—a common pose seen in depictions of the Egyptian child-god Harpocrates. The stela also features traditional Egyptian symbols, such as papyrus-shaped columns, the falcon-god Horus wearing the double crown of Egypt, and the jackal-headed god Anubis, who appears on either side of the child's head. However, while these symbolic carvings are well-made, the carving of the praying child is not as skillfully done. Later, the stela was reused for the burial of an older boy. To reflect this, a tunic was carved over his body, but some details, like his limbs, navel, and genital area, were left unchanged. Below the figure, there are four empty sections that were likely meant for an inscription, possibly written in ink or paint, which has since faded away.",
+          "Material": "Limestone",
+          "Height": "36 cm",
+          "Width": "26 cm",
+          "Provenance": "Terenouthis",
+          "Dating": "2nd century",
+          "Image": "assets/images/Museum_Collection/3/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Pediment",
+          "Inventory Number": "7044",
+          "Description": "The tomb facades in Heracleopolis Magna (Ahnas), built for a non-Christian community, were adorned with reliefs depicting Greek mythological themes. One such broken pediment features Pan, the god of the woods, identified by his goat legs and small horns, chasing a priestess of Dionysus as she dances and claps just beyond his reach. His hooved feet and horns highlight his wild nature, while the flowing drapery around his neck emphasizes his swift movement. The background includes two outward-facing lions, framed by acanthus leaves and other decorative plant motifs in a triangular composition. Additional foliage patterns and Pan's musical pipe fill the remaining space. This \"broken pediment\" reflects Hellenistic artistic influences from 2nd century B.C. Alexandria.",
+          "Material": "Limestone",
+          "Height": "40 cm",
+          "Width": "115 cm",
+          "Provenance": "Probably from Ahnas",
+          "Dating": "4th century",
+          "Image": "assets/images/Museum_Collection/3/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Erotes displaying a cross",
+          "Inventory Number": "7030",
+          "Description": "Two Erotes—small, winged gods linked to love and desire in Greek and Roman mythology—are depicted with elongated torsos and short, limbs, holding up a cross surrounded by a wreath, which rests on a support with widely spread legs. Below them, a three-branched plant fills the space, while acanthus foliage weaves behind the Erotes and extends to the architectural elements of the broken pediment. In Roman art, the wreath symbolized victory, and the overall design relates to Roman and Byzantine depictions of paired winged women.",
+          "Material": "Limestone",
+          "Height": "32 cm",
+          "Width": "105.5 cm",
+          "Provenance": "Probably from Ahnas",
+          "Dating": "late 4th/early 5th century",
+          "Image": "assets/images/Museum_Collection/3/4.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 5,
+          "Artifact Name": "Orpheus",
+          "Inventory Number": "7031",
+          "Description": "The figure, which comes from a broken relief, is nude except for a draped garment that has slipped down, folding over his left thigh and lower leg. In his left hand, he holds a lyre, while his right hand grips a plectrum for strumming. He sits on a high-backed chair with turned legs, resembling a throne. Since nudity was typically used to represent gods rather than mortals, the lyre player is identified as Apollo. In funerary art, Apollo's figure was often used to symbolize intellectual pursuits, reinforcing the deceased's connection to the educated elite. The style and proportions of the sculpture align with those found in 4th-century Ahnas. The god's eyes, the volutes of his lyre, and his curled hair were originally decorated with glass inlays.",
+          "Material": "Limestone",
+          "Height": "28 cm",
+          "Width": "20 cm",
+          "Provenance": "Probably from Ahnas",
+          "Dating": "4th century",
+          "Image": "assets/images/Museum_Collection/3/5.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "4",
+      "hall_name": "Hall 4",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Basket capital with a looped cross",
+          "Inventory Number": "38",
+          "Description": "The name for this type of capital derives from its resemblance to a basket , with four pigeons above – symbols of peace – crosses formed like the \" Ankh\" Sign – symbol of life Here the surface of the rather squat 'basket' has been deeply carved in imitation of wickerwork. The comparatively tall ring base is decorated with a chevron pattern. Doves, perched for flight, occupy the four corners of the abacus. A looped cross has been given a prominent place in the design; centered between the doves on all four sides, each one is sculptured against a wreath to celebrate the triumph of Christianity.",
+          "Material": "Marble",
+          "Height": "28 cm",
+          "Depth of the base": "24.8 cm",
+          "Provenance": "Fustat",
+          "Dating": "5th/6th century",
+          "Image": "assets/images/Museum_Collection/4/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Tapestry with the Looped Cross and Birds",
+          "Inventory Number": "2023",
+          "Description": "Part of a large multicolored drapery, with columns and arches surrounding a crux ansata with the monogram of Christ. Peacocks and doves - symbols of eternity and peace The fragmentary hanging preserves a series of torsaded columns supporting three arches decorated with an interlace. Most of the arch in the center is lost; birds perch above the arches and flank looped crosses under both well-preserved arches. Each red cross is decorated with yellow and green squares in imitation of prototypes made of precious metal encrusted with cabochons (unfaceted gemstones). The loops enclose the Christogram, and branches sprout from the arms. A frieze of opposed triangles forms a border below; across the top there is a meander pattern below a Coptic text preserving the name Phoibammon. Two of the birds are clearly recognizable as peacocks, symbols of the Resurrection.",
+          "Material": "Linen and wool",
+          "Height": "76 cm",
+          "Width": "136 cm",
+          "Provenance": "Unknown",
+          "Dating": "5th/6th century",
+          "Image": "assets/images/Museum_Collection/4/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Tombstone with an Invocation",
+          "Inventory Number": "4302",
+          "Description": "This piece has a unique design. Two decorated crosses stand on either side of a structure with twisted columns supporting a roof with a cross. Grapes and vine leaves growing from the crosses symbolize Christ's sacrifice, while a shell in the center represents the hope of resurrection. The letters Alpha and Omega are placed near the cross. Below, two doves, symbols of peace, are outlined but not fully carved. The design highlights the victory of the cross and is carefully crafted. A Greek inscription at the top names the deceased, possibly Apa Biham or Abraham, who declares faith in \"One God, the Savior",
+          "Material": "Limestone",
+          "Height": "43 cm",
+          "Width": "88 cm",
+          "Provenance": "Unknown",
+          "Dating": "6th/7th century",
+          "Image": "assets/images/Museum_Collection/4/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Tombstone with an orant",
+          "Inventory Number": "8703",
+          "Description": "The stela depicts a woman as an orant, wearing a palla draped over her head and shoulders. Her facial features, including bulging eyes and a square chin, appear molded rather than carved. She stands within an architectural setting with columns and a decorated pediment. The lamps hanging beside her head suggest the structure represents a chapel or prayer niche.",
+          "Material": "Limestone",
+          "Height": "77 cm",
+          "Width": "52 cm",
+          "Provenance": "Unknown",
+          "Dating": "5th century",
+          "Image": "assets/images/Museum_Collection/4/4.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "5",
+      "hall_name": "Hall 5",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "A niche",
+          "Inventory Number": "7991",
+          "Description": "Here the coptic art started to appear clearly. The coptic art took off goddess Aphrodite who depicted coming out of the shell and put instead the cross. The cross is symbol  of  Jesus  and  Christianity. The shell is symbol of the holy virgin Mary. The cross inside the shell is the symbol of Jesus Christ in the belly of his mother and the resurrection of Jesus Christ. This is the beginning of a new era when Christianity became the main religion of Egypt.",
+          "Image": "assets/images/Museum_Collection/5/1.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "6",
+      "hall_name": "Hall 6",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Christ with angels",
+          "Inventory Number": "7984",
+          "Description": "This painting of Christ between angels was used for prayer and meditation by early Christian monks in medieval Egypt. It was placed in a niche on the eastern wall of a monk's cell, aligning with the direction of prayer. Christ is depicted as a half-length figure in a white tunic and orange cloak, with a cross-nimbus around his head, blessing with one hand and holding a book in the other. Two bowing angels stand beside him. Recent conservation work uncovered a damaged detail at the top, likely a conch shell with a looped cross. Unlike other images of Christ in Majesty, which show him as a judge at the end of time, this painting presents a more approachable Christ with just a halo. The angels serve as intermediaries between Christ and the viewer, symbolizing prayer and devotion. The cross above represents salvation, encouraging monks to connect with Christ through worship and visions.",
+          "Material": "Tempera",
+          "Height": "70 cm",
+          "Width": "45 cm",
+          "Depth of niche": "35 cm",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th-8th century",
+          "Image": "assets/images/Museum_Collection/6/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Wall painting 1",
+          "Inventory Number": "8013",
+          "Description": "In the upper zone, Christ is blessing with his right hand and holding a decorated Bible in the other hand. In the centre below, the Virgin is seated holding the Christ Child and flanked by the angels Gabriel and Michael. The figure standing farthest to the left is presumably Jeremiah, the founder of the monastery, while the one to the right is probably Enoch",
+          "Material": "Tempera",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th-7th century",
+          "Image": "assets/images/Museum_Collection/6/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Wall painting 2",
+          "Inventory Number": "8014",
+          "Description": "This small painted niche, now in the Coptic Museum in Cairo, was originally part of a chapel in the Monastery of Apa Jeremiah at Saqqara. It depicts Mary nursing the Christ Child, known as the Galaktotrophousa, a common theme in Egyptian monasteries. She is flanked by the archangels Michael and Gabriel, with decorative columns and an arch above. The imagery connects to both ancient Egyptian depictions of Isis nursing Horus and Christian symbolism of milk as a metaphor for the Eucharist and Paradise. The chapel's walls were painted with saints, and cupboards below the niche likely held devotional items for the monks.",
+          "Material": "Tempera",
+          "Height": "1 m",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th-8th century",
+          "Image": "assets/images/Museum_Collection/6/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Wall painting 3",
+          "Inventory Number": "7987",
+          "Description": "These niches depict Christ enthroned or as Pantocrator, while two feature the Virgin Mary nursing Jesus, flanked by angels and saints. The infant Jesus grasps Mary's arm, and the imagery connects to the ancient Egyptian goddess Isis nursing Horus.",
+          "Material": "Tempera",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th-8th century",
+          "Image": "assets/images/Museum_Collection/6/4.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 5,
+          "Artifact Name": "Wall painting 4",
+          "Inventory Number": "7989",
+          "Description": "Niche depicting Christ, seated on a cushioned stool, is within the mandorla from the corners of which appear the four 'living creatures' and two angels.",
+          "Material": "Tempera",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th-8th century",
+          "Image": "assets/images/Museum_Collection/6/5.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 6,
+          "Artifact Name": "Wall painting 5",
+          "Inventory Number": "7995",
+          "Description": "The Virgin is sitting on a decorated throne holding the Infant Jesus, flanked by angels. The saint on Mary's right is probably Jeremiah, the founder of the monastery. The other saint is probably Enoch.",
+          "Material": "Tempera",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th-7th century",
+          "Image": "assets/images/Museum_Collection/6/6.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 7,
+          "Artifact Name": "Wall painting 6",
+          "Inventory Number": "7992",
+          "Description": "The superimposed composition of the niche includes in the upper register the painting of the Anastasis (Christ's descent into Limbo) to save Adam, accompanied by other biblical body-less. Below this, in the lower register, is an image of the enthroned Christ, the sign of blessing with both hands.",
+          "Material": "Tempera",
+          "Provenance": "Saqqara, Monastery of St. Jeremiah",
+          "Dating": "6th-7th century",
+          "Image": "assets/images/Museum_Collection/6/7.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "7",
+      "hall_name": "Hall 7",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Lunette with St. Apollo flanked by other saintly men",
+          "Inventory Number": "12090",
+          "Description": "This painting features St. Apollo, the monastery's founder, sitting with two monks, likely Phib and Anoup. Their names are unclear, but they are usually shown with him. The artist made small changes to their robes to make each unique. The painting style was influenced by Alexandria and Constantinople. On both sides, warrior saints on horseback lift their arms in prayer. Unlike the monks, they have no beards. Their horses, one white and one brown, are beautifully decorated.",
+          "Material": "Tempera",
+          "Height": "165 cm",
+          "Width": "335 cm",
+          "Provenance": "Bawit, Monastery of St. Apollo",
+          "Dating": "6th-7th century",
+          "Image": "assets/images/Museum_Collection/7/1.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "8",
+      "hall_name": "Hall 8",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Wall painting",
+          "Inventory Number": "7118",
+          "Description": "The outer edge of this well-known niche has a slightly raised frame with two small columns topped with simple capitals. In the upper part, Christ sits on a throne inside an oval-shaped mandorla, which rests on wheels with flames beneath it. Surrounding the mandorla are the symbolic heads of the four creatures linked to the evangelists: the eagle (St. John), the ox (St. Luke), the lion (St. Mark), and the man (St. Matthew). The archangel Michael stands to the left, while Gabriel is on the right. Below, the Holy Virgin sits on a throne holding the infant Jesus, surrounded by the twelve apostles and two local saints.",
+          "Material": "Tempera",
+          "Provenance": "Bawit, Monastery of St. Apollo",
+          "Dating": "6th-7th century",
+          "Image": "assets/images/Museum_Collection/8/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Lunette with angels and the bust of Christ",
+          "Inventory Number": "12089",
+          "Description": "This painting, discovered in 1976, shows two angels in flight, supporting a medallion enclosing the bust of Christ. His label, in Coptic, reads \"Savior.\" The angel to the right is the \"angel of God\"; at the left is the \"angel of the Lord.\" Christ's long wavy hair is parted in the middle and lies on his shoulders. According to the text above the smaller medallion at the left, the haloed bust it enclosed is the martyr Selbane. The painter achieved a harmonious effect by restricting his palette to shades of ocher, except for the hair of all the figures and the beard of Christ whose heavenward glance is underscored by shading below his eyes.",
+          "Material": "Tempera",
+          "Height": "165 cm",
+          "Width": "330 cm",
+          "Provenance": "Bawit, Monastery of St. Apollo.",
+          "Dating": "6th/7th century.",
+          "Image": "assets/images/Museum_Collection/8/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "capital decorated with acanthus.",
+          "Inventory Number": "7179",
+          "Description": "The base from which the stylized plant forms spring resembles a shallow platter, its outside decorated with an openwork design of meander patterns, surrounding and separating alternating smaller rosettes with six round petals, and larger ones with eight pointed petals. The acanthus branches seem to 'grow' from the platter. There are four evenly spaced groups of two shorter branches flanking a larger one. The tips curl downwards unnaturally. Between and behind these groups, more branches shoot upwards and, at the corners of the abacus, outwards. The sharply cut foliage stands out against the background which is painted dark green.",
+          "Material": "Limestone.",
+          "Height": "65 cm.",
+          "Provenance": "Bawit, Monastery of St. Apollo.",
+          "Dating": "6th century.",
+          "Image": "assets/images/Museum_Collection/8/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "capital decorated with acanthus.",
+          "Inventory Number": "7179",
+          "Description": "The base from which the stylized plant forms spring resembles a shallow platter, its outside decorated with an openwork design of meander patterns, surrounding and separating alternating smaller rosettes with six round petals, and larger ones with eight pointed petals. The acanthus branches seem to 'grow' from the platter. There are four evenly spaced groups of two shorter branches flanking a larger one. The tips curl downwards unnaturally. Between and behind these groups, more branches shoot upwards and, at the corners of the abacus, outwards. The sharply cut foliage stands out against the background which is painted dark green.",
+          "Material": "Limestone.",
+          "Height": "65 cm.",
+          "Provenance": "Bawit, Monastery of St. Apollo.",
+          "Dating": "6th century.",
+          "Image": "assets/images/Museum_Collection/8/4.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "9",
+      "hall_name": "Hall 9",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Trapezoidal capital",
+          "Inventory Number": "7178",
+          "Description": "Capitals with four sides in trapezoidal shape are found alongside basket capitals throughout the Mediterranean. Foliage decorates the conical base of this example, which was hollowed out for reuse as a baptismal font at some point after it no longer served its original purpose. On all four sides a panel with a stylized symmetrical depiction of the tree of life is centered in the wickerwork design. Most of the marble that reached Egypt in Late Antiquity came from Constantinople and Proconnesos. Finished marble capitals were also imported through Alexandria and copied there in limestone as well as marble. Skillful local sculptors produced their own designs, which some specialists believe could have impacted on the development of ornamental capitals outside Egypt.",
+          "Material": "Marble",
+          "Height": "83 cm",
+          "Width": "107 cm",
+          "Depth of niche": "55 cm",
+          "Provenance": "Alexandria",
+          "Dating": "6th century",
+          "Image": "assets/images/Museum_Collection/9/1.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "10",
+      "hall_name": "Hall 10",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Fragment of a tunic decorated with a centaur and Dionysian motifs",
+          "Inventory Number": "8471",
+          "Description": "Most of the tunic is missing, including one sleeve. The remaining piece is sewn onto old linen and displayed with the neck hole at the top, showing the shoulder decoration (called the tabula), which is the best-preserved part. In the center of the tabula, there is a centaur surrounded by dancing Dionysian figures. Other figures, like maenads and satyrs, appear on the damaged decorative bands (clavi) and sleeves. When the tunic was worn, these figures stood upright on the clavi and sleeves. However, the dancers on the tabula looked sideways or upside down, except for the busts in the corners, which faced the viewer.",
+          "Material": "Linen and wool",
+          "Length": "73.2 cm",
+          "Width": "46 cm",
+          "Provenance": "Unknown provenance",
+          "Dating": "4th century",
+          "Image": "assets/images/Museum_Collection/10/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Inventory Number": "10605",
+          "Artifact Name": "Tunic with tapestry decoration",
+          "Description": "This tunic was a garment commonly worn by males in Greco- Roman civilizations. At the top of this tunic, an arcade encloses figures of dancers and warriors. Below, two vertical panels with warriors and dancers alternate with roundels amid human busts.",
+          "Material": "Linen and wool.",
+          "Provenance": "Unknown provenance.",
+          "Dating": "5th-6th century",
+          "Image": "assets/images/Museum_Collection/10/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "The Four Gospels, incomplete in coptic",
+          "Inventory Number": "156",
+          "Description": "At the beginning of St. Matthew, St. Mark, and St. John are frames with geometrical designs, illuminated with gold and blue. In the margin on the title page of St. Mark.",
+          "Material": "Parchment.",
+          "Dating": "11th century.",
+          "Image": "assets/images/Museum_Collection/10/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Treasure",
+          "Inventory Number": "Unknown",
+          "Description": "This treasure was discovered in the White Monastery of Saint Shenouda the Archimandrite in Sohag, in December 1897. It was found inside a jar that dates back to the 7th century. The treasure includes Byzantine gold coins from the reigns of Emperor Phocas (602-610), Emperor Heraclius (610-641), and his son Constantine III.",
+          "Material": "metal",
+          "Image": "assets/images/Museum_Collection/10/4.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 5,
+          "Artifact Name": "Statue of an eagle",
+          "Inventory Number": "1510",
+          "Description": "The eagle was seen as a powerful symbol in ancient times because it could fly the highest and had sharp eyesight. In this bronze sculpture, the artist combined the eagle's royal meaning with symbols of abundance—a cornucopia and a leafy, fruit- filled branch held in its claws. This sculpture was found in the ruins of a Roman fortress from the time of Emperor Diocletian (284-305 AD). The eagle was a popular decoration in early Christian art and became linked to the Apostle John. In burial art, it also symbolized the Resurrection, which is why it appears on Coptic tombstones.",
+          "Material": "Bronze",
+          "Height": "47 cm",
+          "Width": "41 cm",
+          "Provenance": "Old Cairo, Fortress of Babylon",
+          "Dating": "3rd/4th century",
+          "Image": "assets/images/Museum_Collection/10/5.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "11",
+      "hall_name": "Hall 11",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Fragmentary wall painting of the Sacrifice of Abraham",
+          "Inventory No": "8411",
+          "Description": "The painting preserves the lower halves of the figures, showing Abraham with a sword and Isaac bound on a platform before an altar. A ram appears beneath a central tree, while the hand of God is missing due to damage. An unidentified, larger figure wearing a pallium—possibly a saint—stands to the left. Originally, Abraham faced forward, but the artist later adjusted his stance to face Isaac more naturally. Decorative elements like a colorful interlace and foliage festoon adorn the lower part of the scene.",
+          "Material": "Tempera.",
+          "Height": "100 cm",
+          "Width": "230 cm",
+          "Provenance": "Unknown",
+          "Dating": "6th century",
+          "Image": "assets/images/Museum_Collection/11/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Fragmentary painting of the Nativity",
+          "Inventory No": "11487",
+          "Description": "This 10th-century Nubian wall painting, influenced by Coptic and Byzantine styles, combines two Nativity scenes—the shepherds' worship and the Magi's visit. It was found in a well- preserved church documented during UNESCO's 1960s campaign to save Nubian monuments. The Virgin, depicted in an exaggerated scale, rests on a bed, while Joseph appears shy at her feet. The Magi approach on horseback and shepherds on foot. Notably, the infant Christ lies on a brick altar rather than in a manger, symbolizing his future sacrifice and possibly referencing a real Nubian altar in Bethlehem's Church of the Nativity.",
+          "Material": "Tempera.",
+          "Height": "164 cm",
+          "Width": "245 cm",
+          "Provenance": "Nubia, Church of Abdallah Nirqi",
+          "Dating": "late 10th century",
+          "Image": "assets/images/Museum_Collection/11/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Adam and Eve",
+          "Inventory No": "3962",
+          "Description": "In 1933, Gilbert and Stewart Bagnani discovered a medieval church at Tebtunis with extensive murals, including a rare depiction of the Fall of Adam and Eve. The painting, accompanied by Coptic text, shows the couple twice: first holding apples, then covering themselves with leaves after the Fall, while Adam accuses Eve and the serpent whispers near her. The figures are nude but stylized without genitalia, following religious iconographic traditions. This is the only known monumental Egyptian illustration of the Fall, with visual parallels found in textiles and manuscripts. A small horse in the corner suggests another, unrelated scene once appeared nearby.",
+          "Material": "Tempera.",
+          "Height": "172 cm",
+          "Width": "219 cm",
+          "Provenance": "Tebtunis",
+          "Dating": "11th century",
+          "Image": "assets/images/Museum_Collection/11/3.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "12",
+      "hall_name": "Hall 12",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Tunic",
+          "Inventory Number": "2262",
+          "Description": "This one is decorated in the middle by the figure of the holy virgin Mary carrying the infant jesus. They are surrounded by 12 disciples, saints, angels and crosses. The sleeves are decorated with a warrior saint on a horseback",
+          "Material": "Linen & Silk",
+          "Provenance": "Unknown",
+          "Dating": "19th century",
+          "Image": "assets/images/Museum_Collection/12/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Crown",
+          "Inventory Number": "1563",
+          "Description": "A gift to Anba Cyril V, the 112th Patriarch, written in Amharic: 'The Crown of the Negus Yohannes, King of Kings of Ethiopia.'",
+          "Material": "Bronze plated Gold",
+          "Provenance": "Unknown",
+          "Dating": "19th century",
+          "Image": "assets/images/Museum_Collection/12/2.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "13",
+      "hall_name": "Hall 13",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Fragment of tapestry 1",
+          "Inventory Number": "1896",
+          "Description": "A roundel in tapestry with woollen and linen threads. In the middle are geometrical designs surrounded by fruit baskets and turtles.",
+          "Material": "Linen, wool",
+          "Provenance": "Unknown provenance",
+          "Dating": "5th century",
+          "Image": "assets/images/Museum_Collection/13/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Fragment of tapestry 2",
+          "Inventory Number": "8468",
+          "Description": "It’s decorated in the middle by a bust of a woman surrounded by medallions including birds and geometrical designs",
+          "Material": "Wool",
+          "Provenance": "Unknown",
+          "Dating": "4th/5th century",
+          "Image": "assets/images/Museum_Collection/13/2.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "14",
+      "hall_name": "Hall 14",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Fragment of tapestry",
+          "Inventory Number": "1984",
+          "Description": "Tapestry rectangle with a woman flanked by two male figures with hands raised as if playing a game",
+          "Material": "Wool",
+          "Provenance": "Unknown",
+          "Dating": "6th/7th century",
+          "Image": "assets/images/Museum_Collection/14/1.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "15",
+      "hall_name": "Hall 15",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Two pages from Codex II Nag Hammadi Library",
+          "Inventory Number": "10544",
+          "Description": "This page from Codex II of the Nag Hammadi Library contains portions of three significant Gnostic texts: the Apocryphon of John, the Gospel of Thomas, and On the Origin of the World. The Apocryphon of John is a secret revelation from the resurrected Savior to his disciple John, addressing the creation of the cosmos and humanity. Its importance is underscored by the survival of four Coptic versions, with the original Greek text composed before 180 CE.\n \nThe Gospel of Thomas comprises 114 sayings attributed to Jesus, introduced by the phrase “Jesus said.” These sayings reflect both New Testament themes and connections to other apocryphal gospels. Though preserved in Coptic, the text may have originated in Syria and was likely composed in the mid- 2nd century.\nOn the Origin of the World, a title given by modern scholars, is a key Gnostic composition exploring cosmology, human origins, and eschatology. Originally written in Greek, it was likely composed in the 3rd century and reflects core Gnostic theological ideas.\n",
+          "Material": "Papyrus",
+          "Height": "28.5 cm",
+          "Width": "15 cm",
+          "Provenance": "Jabal al-Ṭarif, near Nag Hammadi",
+          "Dating": "3rd quarter of the 4th century",
+          "Image": "assets/images/Museum_Collection/15/1.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "16",
+      "hall_name": "Hall 16",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Dual frontispiece of a Gospel book, in Arabic",
+          "Inventory Number": "142",
+          "Description": "A priest made this Arabic copy of the Gospels in Damascus in AM 1057/AD 1340. Less than seventy-five years later the book had already entered the library of the\nPatriarchate in Cairo, for a note was added to the title page with the date AM 1127/AD 1411, specifying that whoever\nmight need the book could borrow it for up to five days from the Patriarchate. The calligrapher used Kufic, an ornamental, angular Arabic script, to inscribe the phrases forming the title. Four in all, they are enclosed in decorative frames at the top and bottom of these pages where no Christian symbols are in evidence. The aesthetically pleasing blue and gold color scheme, like Kufic00, was favored by Arab calligraphers during the Mamluk Period (1250-1517)\n",
+          "Material": "Oriental paper 345 folios",
+          "Length": "36 cm",
+          "Width": "24 cm",
+          "Provenance": "Damascus",
+          "Dating": "AM 1057/AD 1340",
+          "Image": "assets/images/Museum_Collection/16/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Lectionary for Holy Week, with Homilies",
+          "Inventory Number": "1017",
+          "Description": "This lavish liturgical manuscript of readings used in the service of the Holy Week, presents a Coptic- Arabic bilingual text in adjacent columns. The frontispiece, facing the opening page of the text, features a cross\nilluminated in gold and blue pigment.\n",
+          "Material": "Paper",
+          "Length": "47 cm",
+          "Width": "37 cm",
+          "Provenance": "Cairo, The Church of Holy Virgin at Haret Zuwayla",
+          "Dating": "1625 A.D",
+          "Image": "assets/images/Museum_Collection/16/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Pottery ostracon",
+          "Inventory Number": "3123",
+          "Description": "pottery ostracon bearing a Coptic text mentioning produce sold to someone on credit. It was to be repaid in grain and camel fodder",
+          "Material": "Pottery",
+          "Provenance": "Unknown",
+          "Dating": "7th-9th century",
+          "Image": "assets/images/Museum_Collection/16/3.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "17",
+      "hall_name": "Hall 17",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "The Book of Psalms",
+          "Inventory Number": "1288",
+          "Description": "The oldest complete copy of the Book of Psalms was found in an early Christian tomb, placed under the mummy of a child.",
+          "Material": "Parchment with leather",
+          "Length": "17 cm",
+          "Width": "13 cm",
+          "Provenance": "al-Mudil, near Beni Suef",
+          "Dating": "4th-5th century",
+          "Image": "assets/images/Museum_Collection/17/1.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "corridor",
+      "hall_name": "Corridor",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Foliate cross",
+          "Inventory Number": "12549",
+          "Description": "The depiction of the cross in the hermitage paintings at Kellia is highly elaborate. It features thickly leaved branches and twisting vines, with crimson tendrils against an orange background on a rose ground. The cross is adorned with balls at its ends and bells hanging from cords between its summit and arms, creating a tinkling sound during religious processions. When uncovered, a thin white line marked the intersection of the cross, likely drawn by the painter to aid in composition.",
+          "Material": "Tempera",
+          "Length": "109 cm",
+          "Width": "70 cm",
+          "Provenance": "Kellia, Qusur al-Rubaiyat",
+          "Dating": "7th century",
+          "Image": "assets/images/Museum_Collection/Corridor/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Footed dish painted with fish",
+          "Inventory Number": "12540",
+          "Description": "The pottery from Kellia, likely liturgical, showcases a crimped rim with an interface design, decorated with two fish and floral motifs. The fish, symbolizing Christ, is a common motif in Coptic pottery. The piece features\nconcentric circles in the center and is painted in red and black on a buff background, characteristic of Coptic style\n",
+          "Material": "Earthenware",
+          "Height": "11.5 cm",
+          "Depth": "36 cm",
+          "Provenance": "Kellia, Qusur al-Hegeila",
+          "Dating": "6th/7th century",
+          "Image": "assets/images/Museum_Collection/Corridor/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Bird worshiping a cross",
+          "Inventory Number": "12561",
+          "Description": "The bird, depicted on either side of a large cross resembling a gold cross inlaid with gemstones, may be a duck due to its rounded beak. However, it is uncertain if the artist intended to represent a specific bird or created it imaginatively. The markings, including concentric circles on the breast and the stubby, rounded tail, do not align with a duck's features.",
+          "Material": "Tempera",
+          "Height": "45 cm",
+          "Width": "50 cm",
+          "Provenance": "Kellia, Qusur al-lzeila",
+          "Dating": "7th century",
+          "Image": "assets/images/Museum_Collection/Corridor/3.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "18",
+      "hall_name": "Hall 18",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Four friezes, decorated with Nilotic motifs",
+          "Inventory Numbers": [
+            "7211",
+            "7214",
+            "7218",
+            "10520"
+          ],
+          "Description": "The four fragments feature Nilotic themes with crocodiles symbolizing aquatic environments. One\ncrocodile, from the sixth century, has a dragon-like head and cross-hatched scales. Lotus blossoms and plants evoke\nwater. A pillar separates this scene from a human leg, possibly part of an erote pair. Another crocodile rests under a palm tree with a plant in its jaws. The remaining friezes depict streams full of fish and plants. One shows a bird, suggesting waterfowl, and another has fish swimming around a floral garland.\n",
+          "Material": "Tamarisk",
+          "Dimensions": [
+            {
+              "piece": "a",
+              "height": "20 cm",
+              "length": "95.5 cm"
+            },
+            {
+              "piece": "b",
+              "height": "17 cm",
+              "length": "82 cm"
+            },
+            {
+              "piece": "c",
+              "height": "20 cm",
+              "length": "68 cm"
+            },
+            {
+              "piece": "d",
+              "height": "17.8 cm",
+              "length": "53.5 cm"
+            }
+          ],
+          "Provenance": "Unknown provenance",
+          "Dating": "5th/6th century",
+          "Image": "assets/images/Museum_Collection/18/1.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "19",
+      "hall_name": "Hall 19",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Three toys",
+          "Inventory Numbers": [
+            "8890 (bird)",
+            "8895 (horse and rider)"
+          ],
+          "Description": "Pull-toy animals on wheels were popular with toddlers. They could be pulled with a string. Such toys have been found in children's graves and settlements. These examples are well-preserved from the Late Antique Period. Horses were common, often with separate carved riders.\n \nBirds were much rarer. One bird toy has a smooth surface from frequent handling. The horse toy shows traces of paint. It has a dark green mane and saddle, and a red girth. Holes in the head or neck held the pull string. Some toys were made in workshops. Most were likely handmade at home for children’s play.\n",
+          "Material": "Wood",
+          "Dimensions": "varies",
+          "Provenance": "Karanis, Oxychynchus, Gerzeh",
+          "Dating": "5th-7th century",
+          "Image": "assets/images/Museum_Collection/19/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Three toys",
+          "Inventory Number": "8894 (horse)",
+          "Description": "Pull-toy animals on wheels were popular with toddlers. They could be pulled with a string. Such toys have been found in children's graves and settlements. These examples are well-preserved from the Late Antique Period. Horses were common, often with separate carved riders.\n \nBirds were much rarer. One bird toy has a smooth surface from frequent handling. The horse toy shows traces of paint. It has a dark green mane and saddle, and a red girth. Holes in the head or neck held the pull string. Some toys were made in workshops. Most were likely handmade at home for children’s play.\n",
+          "Material": "Wood",
+          "Dimensions": "varies",
+          "Provenance": "Karanis, Oxychynchus, Gerzeh",
+          "Dating": "5th-7th century",
+          "Image": "assets/images/Museum_Collection/19/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Containers",
+          "Inventory Numbers": [
+            "176",
+            "5656",
+            "7572"
+          ],
+          "Description": "Two of these three decorative containers (5656, 7572) were used to keep eye-paint (kohl). The third container (176)\n \n",
+          "Material": "Ivory, bone",
+          "Provenance": "Unknown provenance",
+          "Image": "assets/images/Museum_Collection/19/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Comb with reliefs on both sides",
+          "Inventory Number": "5655",
+          "Description": "A double-sided ivory comb with fine and coarse teeth. One side depicts two New Testament miracles: The Raising of Lazarus and the Healing of the Blind. The other side shows two angels holding a wreath enclosing a warrior on horseback. The fine craftsmanship and decoration suggest a liturgical use",
+          "Material": "Ivory",
+          "Height": "9 cm",
+          "Width": "11 cm",
+          "Provenance": "Deir Abu-Hennis (near Antinoë)",
+          "Dating": "6th century",
+          "Image": "assets/images/Museum_Collection/19/4.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 5,
+          "Artifact Name": "Two wooden combs",
+          "Inventory Numbers": [
+            "6692",
+            "8805"
+          ],
+          "Description": "Two decorated wooden combs with double sets of teeth. Comb 6692 features animal heads with varied ear shapes, possibly symbolic, and large holes at each end likely served as handles. Comb 8805 has incised decoration made up of tiny circles forming arches, peaks, and grouped patterns.",
+          "Material": "Wood",
+          "Dimensions": "varies",
+          "Provenance": "Unknown",
+          "Dating": "Late Antique / Early Byzantine",
+          "Image": "assets/images/Museum_Collection/19/5.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "20",
+      "hall_name": "Hall 20",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Triptych with the Events of Holy Week",
+          "Inventory Numbers": [
+            "3349 (Central Panel)",
+            "10009 (Wings)"
+          ],
+          "Description": "A painted triptych depicting scenes from Holy Week. The central panel focuses on the Crucifixion, with Christ’s oversized figure dominating the scene, flanked by angels and the two thieves. The Virgin Mary, in a purple\nrobe, appears at the foot of the cross with a group of women.\n \nSt. John and the centurion Longinus stand to the right. The left wing shows three scenes: Christ’s Entry into Jerusalem, the Washing of the Disciples’ Feet, and the Last Supper.\nAdditional scenes, including the guards casting dice beneath the cross, continue on the central panel but are not in chronological order\n",
+          "Material": "Tempera and gilding on linen and wood",
+          "Height": "78 cm",
+          "Width": "57 cm",
+          "Provenance": "Unknown",
+          "Dating": "13th century",
+          "Image": "assets/images/Museum_Collection/20/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Icon with St. Anthony visiting St. Paul of Thebes",
+          "Inventory Number": "3418",
+          "Description": "A painted wooden icon showing the meeting of St. Anthony (left) and St. Paul of Thebes (right), the first Christian hermit. Their names are inscribed in Coptic beside their halos. Based on the account by St. Jerome, Paul is shown barefoot and wearing a rough garment made of palm leaves. St. Anthony appears in traditional monastic robes. The icon commemorates their meeting before Paul’s death and burial by Anthony in a grave dug by lions.\n",
+          "Material": "Painted wood",
+          "Height": "55 cm",
+          "Width": "56 cm",
+          "Provenance": "Monastery of Mercurius (Abu Sayfayn)",
+          "Dating": "1777",
+          "Image": "assets/images/Museum_Collection/20/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Icon with the Flight of the Holy Family into Egypt",
+          "Inventory Number": "3350",
+          "Description": "A painted wooden icon depicting the Flight into Egypt. The Virgin Mary is shown riding a white horse at the center, while Jesus sits on St. Joseph’s right shoulder. A background scene of white houses represents Egypt, the place of their refuge. The event is significant in the Coptic Church and is celebrated annually on June 1st.\n",
+          "Material": "Painted wood",
+          "Height": "77 cm",
+          "Width": "54.7 cm",
+          "Provenance": "Unknown",
+          "Dating": "18th century",
+          "Image": "assets/images/Museum_Collection/20/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Icon of St. Ahraqas and St. Augani",
+          "Inventory Number": "3375",
+          "Description": "Left wing of triptych saint Ahraqas and saint Augani are standing with their dog-like faces. Both are related to saint Mercurius.",
+          "Material": "Unknown",
+          "Provenance": "Gift from Gayer Anderson",
+          "Dating": "18th century",
+          "Image": "assets/images/Museum_Collection/20/4.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 5,
+          "Artifact Name": "Dormition of the Holy Theotokos",
+          "Inventory Number": "3370",
+          "Description": "During her Assumption, the Virgin Mary, represented sitting and carried by angles, is giving her girdle to St. Thomas who arrived on a cloud from India\t.",
+          "Material": "Unknown",
+          "Height": "Unknown",
+          "Width": "Unknown",
+          "Provenance": "From the church of Mullaqa, Old Cairo.",
+          "Dating": "13th century",
+          "Image": "assets/images/Museum_Collection/20/5.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 6,
+          "Artifact Name": "Triptych with the Events of Holy Week",
+          "Inventory Numbers": [
+            "3349 (Central Panel)",
+            "10009 (Wings)"
+          ],
+          "Description": "A painted triptych depicting scenes from Holy Week. The central panel focuses on the Crucifixion, with Christ’s oversized figure dominating the scene, flanked by angels and the two thieves. The Virgin Mary, in a purple\nrobe, appears at the foot of the cross with a group of women.\n \nSt. John and the centurion Longinus stand to the right. The left wing shows three scenes: Christ’s Entry into Jerusalem, the Washing of the Disciples’ Feet, and the Last Supper.\nAdditional scenes, including the guards casting dice beneath the cross, continue on the central panel but are not in chronological order\n",
+          "Material": "Tempera and gilding on linen and wood",
+          "Height": "78 cm",
+          "Width": "57 cm",
+          "Provenance": "Unknown",
+          "Dating": "13th century",
+          "Image": "assets/images/Museum_Collection/20/6.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "21",
+      "hall_name": "Hall 21",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Coronation of the Virgin",
+          "Inventory Number": "3448",
+          "Description": "An icon depicting the Virgin Mary with the crowned Christ Child seated on her lap. His right hand is raised in blessing and his left holds a scroll. Two angels stand beside them, and two others lower a crown on Mary’s head. In the upper corners, additional angels hold scrolls and open the background to reveal the Holy Spirit as a dove, labeled in Arabic. The style is marked by flat color fields, linear drapery detail, and stylized facial features.",
+          "Material": "Painted cloth mounted on wood",
+          "Length": "80 cm",
+          "Width": "60 cm",
+          "Provenance": "Unknown",
+          "Dating": "AH 1179 / AD 1765",
+          "Image": "assets/images/Museum_Collection/21/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Icon with the Nativity",
+          "Inventory Number": "3848",
+          "Description": "A painted wooden icon in Greek style depicting the Nativity. At the\ncenter, the newborn Christ lies on a red bed inside a cave, observed by an ox and a donkey. In front of the cave, the Virgin Mary reclines, wrapped in cloth. To her left, the three Magi on horseback follow the star of Bethlehem. In the upper left, three angels observe the scene. At the\nbottom left, Joseph appears as an elderly man confronted by the devil disguised as an old man, attempting to cast doubt. In the upper right, an angel announces the good news to a shepherd.\n",
+          "Material": "Painted wood",
+          "Length": "36.3 cm",
+          "Width": "29.4 cm",
+          "Provenance": "Presented by Mrs. Hykyan Pasha",
+          "Dating": "17th century",
+          "Image": "assets/images/Museum_Collection/21/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Virgin Mary with saints",
+          "Inventory Number": "3872",
+          "Description": "The Mother of god represented between the Archangel Michael and saint John the Baptist with fifteen other saints",
+          "Material": "Unknown",
+          "Provenance": "Unknown",
+          "Dating": "Early 18th century",
+          "Image": "assets/images/Museum_Collection/21/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Hodegetria with saints",
+          "Inventory Number": "3399",
+          "Description": "Hodegetria (the Virgin Mary with the child on her left arm) with saint Nicolas, Saint George and Saint Demetrius.",
+          "Material": "Unknown",
+          "Provenance": "Attributed to Nemeh al-Mussawwir. School of Aleppo",
+          "Dating": "18th century",
+          "Image": "assets/images/Museum_Collection/21/4.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 5,
+          "Artifact Name": "Group of events painted on cloth",
+          "Inventory Number": "6982",
+          "Description": "This kind of icon which is exhibited here for the first time, shows a group of events painted on a piece of cloth. Visitors to Palestine used to take them back home a souvenir Most of them were found in Egypt. Syria, Lebanon and Iraq Few examples have found their way to Europe",
+          "Material": "Unknown",
+          "Provenance": "Bought from Gabriel bey Awad Nawar",
+          "Dating": "18th century",
+          "Image": "assets/images/Museum_Collection/21/5.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "22",
+      "hall_name": "Hall 22",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Icon of Saint Nicholas",
+          "Inventory Number": "4869",
+          "Description": "A unique icon depicting Saint Nicholas, one of the most venerated saints in Eastern Christianity. The painting style and composition reflect traditional Coptic iconography with distinctive features. The figure of\nSaint Nicholas is typically shown in bishop’s vestments, holding a Gospel book and offering a gesture of blessing. The details of the icon’s style or surrounding figures are not fully specified, but its artistic\nexecution is considered unique within the museum’s collection.\n",
+          "Material": "Painted wood",
+          "Length": "50.5 cm",
+          "Width": "34.4 cm",
+          "Depth": "2.3 cm",
+          "Provenance": "Purchased on June 26, 1939",
+          "Image": "assets/images/Museum_Collection/22/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Virgin Mary and Christ",
+          "Inventory Number": "3472",
+          "Description": "The virgin is looking at Christ as her son and savior “it gives me great pain to look at your crucifixion that you are suffering for everyone in\npatience. My son and my lord \n",
+          "Material": "Unknown",
+          "Provenance": "Unknown",
+          "Dating": "Beginning of 18th century",
+          "Image": "assets/images/Museum_Collection/22/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Christ lying on a stone",
+          "Inventory Number": "3461",
+          "Description": "Christ lying on a stone covered by a shroud is surrounded by grieving figures To the left his mother and Mary Magdalene and near them, Saint John touching Christ's arm At the feet of Christ Saint Joseph of Arimathea and Nicodemus behind him.",
+          "Material": "Unknown",
+          "Provenance": "Unknown",
+          "Dating": "18th-19th century",
+          "Image": "assets/images/Museum_Collection/22/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Saint Thomas touching Christ's wound",
+          "Inventory Number": "4871",
+          "Description": "Saint Thomas touches with his finger the wound of Christ so he could believe in His Resurrection while the rest of the disciples are looking at Thomas or at Christ",
+          "Material": "Unknown",
+          "Provenance": "Bought from Nicolas Kyrodos",
+          "Dating": "18th century",
+          "Image": "assets/images/Museum_Collection/22/4.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "23",
+      "hall_name": "Hall 23",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Gold cross",
+          "Inventory Number": "3482",
+          "Description": "A gold Cross with suspension loop. In the centre. Christ is displaying the stigmata as proof of his resurrection the busts in the medallions are either the Evangelists, or the Virgin (above) John the Baptist (below) with two Saints on either side",
+          "Material": "Gold",
+          "Provenance": "Constantinople",
+          "Dating": "600-650 AD",
+          "Image": "assets/images/Museum_Collection/23/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Pot",
+          "Inventory Number": "5165",
+          "Description": "Cooking pot with a torsional handle with human headed terminals",
+          "Material": "Bronze",
+          "Provenance": "Zigzag",
+          "Dating": "Byzantine period",
+          "Image": "assets/images/Museum_Collection/23/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Crosses",
+          "Inventory Number": "4273,1361",
+          "Description": "Processional cross with hollowed handle for fixing on a pole cared by a deacon leading a procession.\nSmall cross with a ring mounted to another perforated cross and attached together with a hinge Ethiopian style\n",
+          "Material": "Bronze, copper",
+          "Provenance": "Ethiopie Gift of Lady Pinching",
+          "Image": "assets/images/Museum_Collection/23/3.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 4,
+          "Artifact Name": "Censer",
+          "Inventory Number": "4047",
+          "Description": "Censer, Ethiopian type, with perforated base and dome. The balls was intended to give sounds fit for praising God",
+          "Material": "Iron",
+          "Provenance": "Ethiopia",
+          "Dating": "Beginning of 20th century",
+          "Image": "assets/images/Museum_Collection/23/4.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "24",
+      "hall_name": "Hall 24",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Painted Bowl",
+          "Inventory Number": "6720",
+          "Description": "This painted bowl has a flat, scalloped rim and is decorated with a plaited pattern. The base of the bowl is adorned with a female bust inside a medallion, surrounded by a frieze of birds, a fantastic animal, and a basket with nourishment.",
+          "Material": "Clay",
+          "Provenance": "Bought from Kamel Abdallah",
+          "Dating": "8th century",
+          "Image": "assets/images/Museum_Collection/24/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Jug",
+          "Inventory Number": "8972",
+          "Description": "Large earthenware jug decorated with grape clusters and vine patterns, likely used for storing wine. Features two molded faces between the handles—one female with applied jewelry. The shape combines a tall neck and amphora-style handles with a flat base. Possibly decorative or symbolic in function.",
+          "Material": "Earthenware",
+          "Height": "61 cm",
+          "Diameter of rim": "21 cm",
+          "Diameter of base": "19.8 cm",
+          "Provenance": "Unknown",
+          "Dating": "4th-5th century",
+          "Image": "assets/images/Museum_Collection/24/2.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 3,
+          "Artifact Name": "Patriarchal Throne",
+          "Inventory Number": "1343",
+          "Description": "Patriarchal throne with a dome supported by four pillars. The dome is surmounted by crosses.",
+          "Material": "Bronze and copper",
+          "Provenance": "Fayoum",
+          "Dating": "10th century",
+          "Image": "assets/images/Museum_Collection/24/3.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "25",
+      "hall_name": "Hall 25",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Pilgrim Flask",
+          "Inventory Number": "6717",
+          "Description": "Circular clay flask likely used by pilgrims visiting the sanctuary of Abu Menas, near Alexandria. Such flasks were used to carry holy water. This example is decorated with an image of St. Menas standing in an orans pose between two camels. A Greek inscription above reads Hagios [Saint] Menas",
+          "Material": "Clay",
+          "Provenance": "Presumably from Abu Menas",
+          "Dating": "5th-6th century",
+          "Image": "assets/images/Museum_Collection/25/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Painted Dish Of Aswan Clay",
+          "Inventory Number": "Unknown",
+          "Description": "Unknown",
+          "Material": "Unknown",
+          "Provenance": "Unknown",
+          "Image": "assets/images/Museum_Collection/25/2.jpg",
+          "Audio": ""
+        }
+      ]
+    },
+    {
+      "hall_id": "26",
+      "hall_name": "Hall 26: Hall of Churches",
+      "hall_description": "",
+      "hall_image": "",
+      "artifacts": [
+        {
+          "artifact_id": 1,
+          "Artifact Name": "Liturgical Fan",
+          "Inventory Number": "1597",
+          "Description": "Fan decorated in relief with the four Incorporeal Beings, represented with the heads of an ox, a lion, a man, and an eagle. It was used during liturgy to keep flies and other insects away from the chalice.",
+          "Material": "Silver, wood",
+          "Provenance": "Church of Saint Barbara, Old Cairo",
+          "Image": "assets/images/Museum_Collection/26/1.jpg",
+          "Audio": ""
+        },
+        {
+          "artifact_id": 2,
+          "Artifact Name": "Rectangular wooden Gospel casket",
+          "Inventory Number": "Unknown",
+          "Description": "Unknown",
+          "Material": "Unknown",
+          "Provenance": "Unknown",
+          "Image": "assets/images/Museum_Collection/26/2.jpg",
+          "Audio": ""
+        }
+      ]
+    }
+  ]
+}
